@@ -1,1 +1,4 @@
 file name 02
+adding 2 new line
+line 1
+line 2
