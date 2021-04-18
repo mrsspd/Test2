@@ -1,2 +1,6 @@
 file name 03
 in other directory
+adding 3 new line
+line 1
+line 2
+line 3
